@@ -1,0 +1,9 @@
+Snir	 m	 25	sony	tennis	soccer
+Dina	 f	 23	gym		run		swim
+Oshri	 m	 23	sony	gym		run
+Shani	 f	 25	swim	pool	gym
+Omri	 m	 25	swim	read	soccer
+Florit	 f	 23	swim	gym		sport
+Shimon	 m	 45	gym		work   basket-ball
+Levana	 f	 24	pool	read	soccer
+Udi		 m	 21	sony	watch-tv	soccer
